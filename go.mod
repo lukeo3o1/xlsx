@@ -1,4 +1,4 @@
-module github.com/lukeo3o1/xlsx
+module github.com/lukeo3o1/xlsx/v1
 
 go 1.12
 
