@@ -1,4 +1,4 @@
-module github.com/tealeg/xlsx
+module github.com/lukeo3o1/xlsx
 
 go 1.12
 
